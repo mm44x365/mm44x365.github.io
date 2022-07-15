@@ -1,0 +1,292 @@
+Uri: https://cdn.plyr.io/3.6.8/plyr.css
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\3.6.8\plyr.css
+Content Type: text/css
+
+Uri: https://cdn.plyr.io/3.6.8/plyr.js
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\3.6.8\plyr.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/1.17.3/simple-lightbox.min.js
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\simplelightbox\1.17.3\simple-lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/1.17.3/simplelightbox.min.css
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\simplelightbox\1.17.3\simplelightbox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\twitter-bootstrap\4.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\ajax\libs\twitter-bootstrap\4.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://datengdong.com/image/protocol/distance.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\image\protocol\distance.png
+Content Type: image/png
+
+Uri: https://datengdong.com/image/protocol/masker.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\image\protocol\masker.png
+Content Type: image/png
+
+Uri: https://datengdong.com/image/protocol/salam.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\image\protocol\salam.png
+Content Type: image/png
+
+Uri: https://datengdong.com/image/protocol/wash.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\image\protocol\wash.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\index.htm
+Content Type: text/html
+
+Uri: https://demo.datengdong.com/images/copy.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\copy.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/images/gift-donation.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\gift-donation.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/images/instagram.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\instagram.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/images/logo-color.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\logo-color.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/images/love.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\love.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/images/payment/alamat.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\payment\alamat.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/images/payment/bca.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\payment\bca.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/images/play-pause.svg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\play-pause.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.datengdong.com/images/send-b.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\send-b.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/images/twitter.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\images\twitter.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/js/musicv2.js?v=1.0.0
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\js\musicv2.js
+Content Type: application/javascript
+
+Uri: https://demo.datengdong.com/themes/style.css?v=1.2.1
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\style.css
+Content Type: text/css
+
+Uri: https://demo.datengdong.com/themes/twelve/custom.js
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\custom.js
+Content Type: application/javascript
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/flower-2.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\flower-2.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/flower-cover-left.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\flower-cover-left.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/flower-cover-right.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\flower-cover-right.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/flower.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\flower.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/leaves-left.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\leaves-left.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/leaves-right.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\leaves-right.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/mask.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\mask.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/images/content/mask_bottom.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\images\content\mask_bottom.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/themes/twelve/style.css?v=1.0.1
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\themes\twelve\style.css
+Content Type: text/css
+
+Uri: https://demo.datengdong.com/uploads/musics/11.mp3
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\musics\11.mp3
+Content Type: audio/mpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/1949d9111354e8962623050b26440179f5caddd0.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\1949d9111354e8962623050b26440179f5caddd0.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/4fbe34d890760848eb7dd0c9529a350f9eb955e4.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\4fbe34d890760848eb7dd0c9529a350f9eb955e4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/636378ac339e7640b43f9d199426e6f676e51ee6.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\636378ac339e7640b43f9d199426e6f676e51ee6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/919581c46f65bdfb61bf87436d6671321c91ca1d.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\919581c46f65bdfb61bf87436d6671321c91ca1d.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/b764db47f4737e605f7ab557461fb11a0b8834b3.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\b764db47f4737e605f7ab557461fb11a0b8834b3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/c2e032241e4e2df8bbc07227134055b6ab9c60c7.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\c2e032241e4e2df8bbc07227134055b6ab9c60c7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/dd70c04037e4098808d682b9a0cad19a4dcd8bd5.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\dd70c04037e4098808d682b9a0cad19a4dcd8bd5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/gallery/f92dc892d7faba8c2253a2ccfca156ba6ad908ad.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\gallery\f92dc892d7faba8c2253a2ccfca156ba6ad908ad.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/original/qris/iao8blunwz.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\original\qris\iao8blunwz.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/uploads/thumbs/couple/lqtjmas1on.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\couple\lqtjmas1on.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/uploads/thumbs/couple/m4uyowvn1b.png
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\couple\m4uyowvn1b.png
+Content Type: image/png
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/1949d9111354e8962623050b26440179f5caddd0MS.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\1949d9111354e8962623050b26440179f5caddd0MS.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/4fbe34d890760848eb7dd0c9529a350f9eb955e4rY.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\4fbe34d890760848eb7dd0c9529a350f9eb955e4rY.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/636378ac339e7640b43f9d199426e6f676e51ee6Va.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\636378ac339e7640b43f9d199426e6f676e51ee6Va.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/919581c46f65bdfb61bf87436d6671321c91ca1dFf.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\919581c46f65bdfb61bf87436d6671321c91ca1dFf.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/b764db47f4737e605f7ab557461fb11a0b8834b3gx.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\b764db47f4737e605f7ab557461fb11a0b8834b3gx.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/c2e032241e4e2df8bbc07227134055b6ab9c60c7ML.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\c2e032241e4e2df8bbc07227134055b6ab9c60c7ML.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/dd70c04037e4098808d682b9a0cad19a4dcd8bd5bz.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\dd70c04037e4098808d682b9a0cad19a4dcd8bd5bz.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.datengdong.com/uploads/thumbs/gallery/f92dc892d7faba8c2253a2ccfca156ba6ad908adpl.jpg
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\uploads\thumbs\gallery\f92dc892d7faba8c2253a2ccfca156ba6ad908adpl.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Tangerine:wght@700&family=Quicksand:wght@500;600;700&family=Italianno&display=swap
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/italianno/v16/dg4n_p3sv6gCJkwzT6Rnjw.ttf
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\s\italianno\v16\dg4n_p3sv6gCJkwzT6Rnjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v29/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18E.ttf
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\s\quicksand\v29\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v29/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv18E.ttf
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\s\quicksand\v29\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v29/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o18E.ttf
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\s\quicksand\v29\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tangerine/v17/Iurd6Y5j_oScZZow4VO5srNpjA.ttf
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\s\tangerine\v17\Iurd6Y5j_oScZZow4VO5srNpjA.ttf
+Content Type: font/ttf
+
+Uri: https://na.ui-avatars.com/api/?name=erina-kaguya&size=50&background=bf616b&color=ffffff
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\api\index-5.htm
+Content Type: image/svg+xml
+
+Uri: https://na.ui-avatars.com/api/?name=ferguso-sudarsono&size=50&background=bf616b&color=ffffff
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\api\index-2.htm
+Content Type: image/svg+xml
+
+Uri: https://na.ui-avatars.com/api/?name=joko-purnomo&size=50&background=bf616b&color=ffffff
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\api\index-6.htm
+Content Type: image/svg+xml
+
+Uri: https://na.ui-avatars.com/api/?name=putri-syafitri&size=50&background=bf616b&color=ffffff
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\api\index-3.htm
+Content Type: image/png
+
+Uri: https://na.ui-avatars.com/api/?name=sebastian-parto&size=50&background=bf616b&color=ffffff
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\api\index-4.htm
+Content Type: image/svg+xml
+
+Uri: https://na.ui-avatars.com/api/?name=shinta-isnaini&size=50&background=bf616b&color=ffffff
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\api\index-1.htm
+Content Type: image/svg+xml
+
+Uri: https://na.ui-avatars.com/api/?name=syahrul-ansyari&size=50&background=bf616b&color=ffffff
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\api\index.htm
+Content Type: image/png
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\demo.datengdong.com\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
